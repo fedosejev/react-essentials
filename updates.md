@@ -1,6 +1,6 @@
 # Updates
 
-Unfortunately some errors are discovered after the book is published. Here I will describe a list of updates for the current version of the book.
+Unfortunately some errors are discovered after the book is published. Here I will describe updates for the current version of the book.
 
 ## Chapter 8, Page 6
 
@@ -38,6 +38,6 @@ Use:
 <Tweet tweet={this.props.tweet} onImageClick={this.addTweetToCollection} />
 ```
 
-# Found another error?
+## Found another error?
 
 Please contact Artemij: reactessentials@gmail.com
