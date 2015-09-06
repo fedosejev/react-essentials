@@ -5,13 +5,17 @@ Have you read [React.js Essentials](https://www.packtpub.com/web-development/rea
 
 + [Source code](./code)
 + [Updates](./updates.md)
-+ [Book's Project](http://fedosejev.github.io/react-essentials-project/)
++ [Book's Project](https://github.com/fedosejev/react-essentials-project)
 
 ## Q/A
 
 ### Can I have ES6 version of Snapterest?
 
 Yes! [Here it is](https://github.com/jmrog/react-essentials-es6-version). Special thanks to [Jason Rogers](https://github.com/jmrog) who converted Snapterest to ES6 syntax!
+
+### Can I see Snapterest in action?
+
+Yes! http://fedosejev.github.io/react-essentials-project/
 
 ## Questions, errors, ideas or thoughts?
 
