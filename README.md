@@ -22,7 +22,7 @@ Artemij's official website: [artemij.com](http://artemij.com)
 
 ## Questions, errors, ideas or thoughts?
 
-Create a [new issue](https://github.com/fedosejev/react-essentials/issues) or email Artemij: reactessentials@gmail.com
+Check [updates](./updates.md) or create a [new issue](https://github.com/fedosejev/react-essentials/issues) or email Artemij: reactessentials@gmail.com
 
 ## Thank you
 
