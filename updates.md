@@ -10,7 +10,7 @@ Instead of:
 
 Use:
 
-`npm install --save-dev jest-cli@0.4.19`
+`npm install --save-dev jest-cli@^0.4`
 
 ## Chapter 10, Page 29
 
