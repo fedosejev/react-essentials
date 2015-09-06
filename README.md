@@ -5,6 +5,7 @@ Have you read [React.js Essentials](https://www.packtpub.com/web-development/rea
 
 + [Source code](./code)
 + [Updates](./updates.md)
++ [Book's Project](http://fedosejev.github.io/react-essentials-project/)
 
 ## Q/A
 
