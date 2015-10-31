@@ -1,5 +1,9 @@
 <img src="./book-cover.jpg" alt="Book cover" width="350px" />
 
++ [Amazon US](http://www.amazon.com/React-js-Essentials-Artemij-Fedosejev/dp/1783551623/)
++ [Amazon UK](http://www.amazon.co.uk/books/dp/1783551623)
++ [Packt Publishing](packtpub.com/web-development/reactjs-essentials)
+
 # React.js Essentials
 Have you read [React.js Essentials](https://www.packtpub.com/web-development/reactjs-essentials) book yet? Share your comments, questions, ideas, thoughts.
 
@@ -26,10 +30,6 @@ Check [updates](./updates.md) or create a [new issue](https://github.com/fedosej
 ## Author
 
 <img src="artemij_fedosejev.jpg" alt="Artemij Fedosejev" width="250" />
-
-+ [Amazon US](http://www.amazon.com/React-js-Essentials-Artemij-Fedosejev/dp/1783551623/)
-+ [Amazon UK](http://www.amazon.co.uk/books/dp/1783551623)
-+ [Packt Publishing](packtpub.com/web-development/reactjs-essentials)
 
 <a href="http://artemij.com">Artemij Fedosejev</a> is a technical lead living in London, United Kingdom. He is a self-taught web developer who has been a web developer since the early 2000s. Artemij earned his BSc in Computer Science from University College Cork, Ireland. He participated in the IGNITE Graduate Business Innovation Programme, where he built and launched a website that received the Most Innovative Project award.
 
