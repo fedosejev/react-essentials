@@ -31,7 +31,7 @@ Check [updates](./updates.md) or create a [new issue](https://github.com/fedosej
 
 After graduation, Artemij moved to London to help local start-up companies build their products. He worked with JavaScript, Node.js, HTML5, CSS3, and other modern web technologies. After gaining some experience in the start-up industry, Artemij was presented with an opportunity to join Imperial College, London, work on a research and development, project and take leadership in creating frontends for a couple of web applications in the public health space. He played a key role in creating frontend architecture using React.js and Flux for [WGSA.net](http://wgsa.net) and [Microreact.org](http://microreact.org).
 
-Artemij's official website: [artemij.com](http://artemij.com) and
+Artemij's official website: [artemij.com](http://artemij.com)
 
 Feel free to connect with Artemij on <a href="http://linkedin.com/in/artemij">LinkedIn</a>.
 
