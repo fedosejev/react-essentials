@@ -1,10 +1,11 @@
 <img src="./book-cover.jpg" alt="Book cover" width="350px" />
 
+# React.js Essentials
+
 + [Amazon US](http://www.amazon.com/React-js-Essentials-Artemij-Fedosejev/dp/1783551623/)
 + [Amazon UK](http://www.amazon.co.uk/books/dp/1783551623)
 + [Packt Publishing](packtpub.com/web-development/reactjs-essentials)
 
-# React.js Essentials
 Have you read [React.js Essentials](https://www.packtpub.com/web-development/reactjs-essentials) book yet? Share your comments, questions, ideas, thoughts.
 
 + [Source code](./code)
