@@ -20,7 +20,7 @@ Throughout the book you will be building a React.js project called Snapterest. H
 + [Amazon IN](http://www.amazon.in/React-js-Essentials-Artemij-Fedosejev-ebook/dp/B00YSILZRW)
 + [Amazon JP](http://www.amazon.co.jp/React-js-Essentials-Artemij-Fedosejev-ebook/dp/B00YSILZRW)
 + [Amazon BR](http://www.amazon.com.br/React-js-Essentials-Artemij-Fedosejev-ebook/dp/B00YSILZRW)
-+ [Packt Publishing](packtpub.com/web-development/reactjs-essentials)
++ [Packt Publishing](https://www.packtpub.com/web-development/reactjs-essentials)
 + [Google Play](https://play.google.com/store/books/details/Artemij_Fedosejev_React_js_Essentials?id=Rhl1CgAAQBAJ)
 + [iTunes](https://itunes.apple.com/us/book/react.js-essentials/id1028205748)
 + [PacktLiB](https://www.packtpub.com/packtlib/book/Web%20Development/9781783551620)
