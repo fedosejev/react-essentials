@@ -6,6 +6,7 @@
 + [Amazon UK](http://www.amazon.co.uk/books/dp/1783551623)
 + [Amazon AU](http://www.amazon.com.au/React-js-Essentials-Artemij-Fedosejev-ebook/dp/B00YSILZRW)
 + [Amazon CA](http://www.amazon.ca/React-js-Essentials-Artemij-Fedosejev-ebook/dp/B00YSILZRW)
++ [Amazon ES](http://www.amazon.es/React-js-Essentials-Artemij-Fedosejev-ebook/dp/B00YSILZRW)
 + [Packt Publishing](packtpub.com/web-development/reactjs-essentials)
 + [Google Play](https://play.google.com/store/books/details/Artemij_Fedosejev_React_js_Essentials?id=Rhl1CgAAQBAJ)
 + [iTunes](https://itunes.apple.com/us/book/react.js-essentials/id1028205748)
