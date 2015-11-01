@@ -2,6 +2,16 @@
 
 # React.js Essentials
 
+Have you read [React.js Essentials](https://www.packtpub.com/web-development/reactjs-essentials) book yet? Share your comments, questions, ideas, thoughts.
+
++ [Source code](./code)
++ [Updates](./updates.md)
++ [Book's Project](https://github.com/fedosejev/react-essentials-project)
+
+Throughout the book you will be building a React.js project called Snapterest. Here is live version of Snapterest: http://fedosejev.github.io/react-essentials-project/
+
+### Where to get your copy?
+
 + [Amazon US](http://www.amazon.com/React-js-Essentials-Artemij-Fedosejev/dp/1783551623/)
 + [Amazon UK](http://www.amazon.co.uk/books/dp/1783551623)
 + [Amazon AU](http://www.amazon.com.au/React-js-Essentials-Artemij-Fedosejev-ebook/dp/B00YSILZRW)
@@ -19,14 +29,6 @@
 + [Safari Books Online](https://www.safaribooksonline.com/library/view/reactjs-essentials/9781783551620/)
 + [Indigo](https://www.chapters.indigo.ca/en-ca/books/react-js-essentials/9781783551620-item.html)
 + [eBay UK](http://www.ebay.co.uk/itm/React-js-Essentials-by-Artemij-Fedosejev-/252142933077)
-
-Have you read [React.js Essentials](https://www.packtpub.com/web-development/reactjs-essentials) book yet? Share your comments, questions, ideas, thoughts.
-
-+ [Source code](./code)
-+ [Updates](./updates.md)
-+ [Book's Project](https://github.com/fedosejev/react-essentials-project)
-
-Throughout the book you will be building a React.js project called Snapterest. Here is live version of Snapterest: http://fedosejev.github.io/react-essentials-project/
 
 ## Q/A
 
