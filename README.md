@@ -26,6 +26,7 @@ Throughout the book you will be building a React.js project called Snapterest. H
 + [PacktLiB](https://www.packtpub.com/packtlib/book/Web%20Development/9781783551620)
 + [Google Books](https://books.google.co.uk/books?id=Rhl1CgAAQBAJ&pg=PA20&dq=react+essentials&hl=en&sa=X&redir_esc=y#v=onepage&q=react%20essentials&f=false)
 + [O'Reilly Media](http://shop.oreilly.com/product/9781783551620.do)
++ [Waterstones](https://www.waterstones.com/book/react-js-essentials/artemij-fedosejev/9781783551620)
 + [Safari Books Online](https://www.safaribooksonline.com/library/view/reactjs-essentials/9781783551620/)
 + [Indigo](https://www.chapters.indigo.ca/en-ca/books/react-js-essentials/9781783551620-item.html)
 + [eBay UK](http://www.ebay.co.uk/itm/React-js-Essentials-by-Artemij-Fedosejev-/252142933077)
