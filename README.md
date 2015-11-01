@@ -9,6 +9,7 @@
 + [PacktLiB](https://www.packtpub.com/packtlib/book/Web%20Development/9781783551620)
 + [Google Books](https://books.google.co.uk/books?id=Rhl1CgAAQBAJ&pg=PA20&dq=react+essentials&hl=en&sa=X&redir_esc=y#v=onepage&q=react%20essentials&f=false)
 + [O'Reilly Media](http://shop.oreilly.com/product/9781783551620.do)
++ [Safari Books Online](https://www.safaribooksonline.com/library/view/reactjs-essentials/9781783551620/)
 
 Have you read [React.js Essentials](https://www.packtpub.com/web-development/reactjs-essentials) book yet? Share your comments, questions, ideas, thoughts.
 
