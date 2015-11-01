@@ -5,6 +5,7 @@
 + [Amazon US](http://www.amazon.com/React-js-Essentials-Artemij-Fedosejev/dp/1783551623/)
 + [Amazon UK](http://www.amazon.co.uk/books/dp/1783551623)
 + [Packt Publishing](packtpub.com/web-development/reactjs-essentials)
++ [Google Play](https://play.google.com/store/books/details/Artemij_Fedosejev_React_js_Essentials?id=Rhl1CgAAQBAJ)
 
 Have you read [React.js Essentials](https://www.packtpub.com/web-development/reactjs-essentials) book yet? Share your comments, questions, ideas, thoughts.
 
