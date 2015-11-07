@@ -41,6 +41,10 @@ Yes! [Here it is](https://github.com/jmrog/react-essentials-es6-version). Specia
 
 Yes! http://fedosejev.github.io/react-essentials-project/
 
+### Have you seen your book on Reddit?
+
+[Yes](https://www.reddit.com/r/illegaltorrents/comments/3p008z/request_reactjs_essentials_by_artemij_fedosejev/)
+
 ## Questions, errors, ideas or thoughts?
 
 Check [updates](./updates.md) or create a [new issue](https://github.com/fedosejev/react-essentials/issues) or email Artemij: reactessentials@gmail.com
