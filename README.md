@@ -43,7 +43,7 @@ Yes! http://fedosejev.github.io/react-essentials-project/
 
 ### Have you seen your book on Reddit?
 
-[Yes](https://www.reddit.com/r/illegaltorrents/comments/3p008z/request_reactjs_essentials_by_artemij_fedosejev/)
+[Yes](https://www.reddit.com/r/illegaltorrents/comments/3p008z/request_reactjs_essentials_by_artemij_fedosejev/).
 
 ## Questions, errors, ideas or thoughts?
 
