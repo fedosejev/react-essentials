@@ -49,6 +49,10 @@ Yes! http://fedosejev.github.io/react-essentials-project/
 
 Check [updates](./updates.md) or create a [new issue](https://github.com/fedosejev/react-essentials/issues) or email Artemij: reactessentials@gmail.com
 
+## Superheroes
+
+Special thanks to @magomimmo, @ttanzer, @rickhaffey, @RenatKunafin who helped other readers to solve [various issues](https://github.com/fedosejev/react-essentials/issues)!
+
 ## Author
 
 <img src="artemij_fedosejev.jpg" alt="Artemij Fedosejev" width="250" />
