@@ -2,6 +2,16 @@
 
 Unfortunately some errors are discovered after the book is published. Here I will describe updates for the current version of the book.
 
+## Chapter 1, Page 14
+
+Instead of:
+
+`npm install --save-dev babelify`
+
+Use:
+
+`npm install --save-dev babelify@^6.2.0`
+
 ## Chapter 8, Page 6
 
 Instead of:
