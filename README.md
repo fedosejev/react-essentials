@@ -35,7 +35,7 @@ Throughout the book you will be building a React.js project called Snapterest. H
 
 ### I get `SyntaxError: .../app.js: Unexpected token` when I run `gulp` command. What should I do?
 
-This is due to some breaking changes made in `babelify` version 7. The book uses `babelify` version __6__ - if you choose to use version 6 as well then you should not see that error message. In order to install version 6 [do the following](https://github.com/fedosejev/react-essentials/blob/master/updates.md#chapter-1-page-14).
+This is due to some breaking changes made in `babelify` version 7. The book uses `babelify` version __6__ - if you choose to use version 6 as well then please [do the following](https://github.com/fedosejev/react-essentials/blob/master/updates.md#chapter-1-page-14).
 
 If you choose to use `babelify` version __7__, then please see [this comment](https://github.com/fedosejev/react-essentials/issues/21#issuecomment-160316774).
 
