@@ -33,6 +33,10 @@ Throughout the book you will be building a React.js project called Snapterest. H
 
 ## Q/A
 
+### I get `SyntaxError: .../app.js: Unexpected token` when I run `gulp` command - what should I do?
+
+This is due to some breaking changes made in `babelify` version 7. The book uses `babelify` version 6 - if you choose to use version 6 as well then you should not see that error message. In order to install version 6 [do the following](https://github.com/fedosejev/react-essentials/blob/master/updates.md#chapter-1-page-14).
+
 ### Can I have ES6 version of Snapterest?
 
 Yes! [Here it is](https://github.com/jmrog/react-essentials-es6-version). Special thanks to [Jason Rogers](https://github.com/jmrog) who converted Snapterest to ES6 syntax!
