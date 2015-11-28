@@ -2,10 +2,6 @@
 
 # React.js Essentials
 
-+ [Amazon US](http://www.amazon.com/React-js-Essentials-Artemij-Fedosejev/dp/1783551623/)
-+ [Amazon UK](http://www.amazon.co.uk/books/dp/1783551623)
-+ [Packt Publishing](packtpub.com/web-development/reactjs-essentials)
-
 Have you read [React.js Essentials](https://www.packtpub.com/web-development/reactjs-essentials) book yet? Share your comments, questions, ideas, thoughts.
 
 + [Source code](./code)
@@ -13,6 +9,27 @@ Have you read [React.js Essentials](https://www.packtpub.com/web-development/rea
 + [Book's Project](https://github.com/fedosejev/react-essentials-project)
 
 Throughout the book you will be building a React.js project called Snapterest. Here is live version of Snapterest: http://fedosejev.github.io/react-essentials-project/
+
+### Where to get your copy?
+
++ [Amazon US](http://www.amazon.com/React-js-Essentials-Artemij-Fedosejev/dp/1783551623/)
++ [Amazon UK](http://www.amazon.co.uk/books/dp/1783551623)
++ [Amazon AU](http://www.amazon.com.au/React-js-Essentials-Artemij-Fedosejev-ebook/dp/B00YSILZRW)
++ [Amazon CA](http://www.amazon.ca/React-js-Essentials-Artemij-Fedosejev-ebook/dp/B00YSILZRW)
++ [Amazon ES](http://www.amazon.es/React-js-Essentials-Artemij-Fedosejev-ebook/dp/B00YSILZRW)
++ [Amazon IN](http://www.amazon.in/React-js-Essentials-Artemij-Fedosejev-ebook/dp/B00YSILZRW)
++ [Amazon JP](http://www.amazon.co.jp/React-js-Essentials-Artemij-Fedosejev-ebook/dp/B00YSILZRW)
++ [Amazon BR](http://www.amazon.com.br/React-js-Essentials-Artemij-Fedosejev-ebook/dp/B00YSILZRW)
++ [Packt Publishing](https://www.packtpub.com/web-development/reactjs-essentials)
++ [Google Play](https://play.google.com/store/books/details/Artemij_Fedosejev_React_js_Essentials?id=Rhl1CgAAQBAJ)
++ [iTunes](https://itunes.apple.com/us/book/react.js-essentials/id1028205748)
++ [PacktLiB](https://www.packtpub.com/packtlib/book/Web%20Development/9781783551620)
++ [Google Books](https://books.google.co.uk/books?id=Rhl1CgAAQBAJ&pg=PA20&dq=react+essentials&hl=en&sa=X&redir_esc=y#v=onepage&q=react%20essentials&f=false)
++ [O'Reilly Media](http://shop.oreilly.com/product/9781783551620.do)
++ [Waterstones](https://www.waterstones.com/book/react-js-essentials/artemij-fedosejev/9781783551620)
++ [Safari Books Online](https://www.safaribooksonline.com/library/view/reactjs-essentials/9781783551620/)
++ [Indigo](https://www.chapters.indigo.ca/en-ca/books/react-js-essentials/9781783551620-item.html)
++ [eBay UK](http://www.ebay.co.uk/itm/React-js-Essentials-by-Artemij-Fedosejev-/252142933077)
 
 ## Q/A
 
@@ -24,9 +41,17 @@ Yes! [Here it is](https://github.com/jmrog/react-essentials-es6-version). Specia
 
 Yes! http://fedosejev.github.io/react-essentials-project/
 
+### Have you seen your book on Reddit?
+
+[Yes](https://www.reddit.com/r/illegaltorrents/comments/3p008z/request_reactjs_essentials_by_artemij_fedosejev/).
+
 ## Questions, errors, ideas or thoughts?
 
 Check [updates](./updates.md) or create a [new issue](https://github.com/fedosejev/react-essentials/issues) or email Artemij: reactessentials@gmail.com
+
+## Superheroes
+
+Special thanks to @magomimmo, @ttanzer, @rickhaffey, @RenatKunafin who helped other readers to solve [various issues](https://github.com/fedosejev/react-essentials/issues)!
 
 ## Author
 
