@@ -57,7 +57,7 @@ Check [updates](./updates.md) or create a [new issue](https://github.com/fedosej
 
 ## Superheroes
 
-Special thanks to @magomimmo, @ttanzer, @rickhaffey, @RenatKunafin who helped other readers to solve [various issues](https://github.com/fedosejev/react-essentials/issues)!
+Special thanks to [@magomimmo](https://github.com/magomimmo), [@ttanzer](https://github.com/ttanzer), [@rickhaffey](https://github.com/rickhaffey), [@RenatKunafin](https://github.com/RenatKunafin), [@blitzd](https://github.com/blitzd) who helped other readers to solve [various issues](https://github.com/fedosejev/react-essentials/issues)!
 
 ## Author
 
