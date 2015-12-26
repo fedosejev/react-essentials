@@ -33,25 +33,25 @@ Throughout the book you will be building a React.js project called Snapterest. H
 
 ## Q/A
 
-### I get `SyntaxError: .../app.js: Unexpected token` when I run `gulp` command. What should I do?
+#### I get `SyntaxError: .../app.js: Unexpected token` when I run `gulp` command. What should I do?
 
 This is due to some breaking changes made in `babelify` version 7. The book uses `babelify` version __6__ - if you choose to use version 6 as well then please [do the following](https://github.com/fedosejev/react-essentials/blob/master/updates.md#chapter-1-page-14).
 
 If you choose to use `babelify` version __7__, then please see [this comment](https://github.com/fedosejev/react-essentials/issues/21#issuecomment-160316774).
 
-### Can I have ES6 version of Snapterest?
+#### Can I have ES6 version of Snapterest?
 
 Yes! [Here it is](https://github.com/jmrog/react-essentials-es6-version). Special thanks to [Jason Rogers](https://github.com/jmrog) who converted Snapterest to ES6 syntax!
 
-### Can I see Snapterest in action?
+#### Can I see Snapterest in action?
 
 Yes! http://fedosejev.github.io/react-essentials-project/
 
-### Have you seen your book on Reddit?
+#### Have you seen your book on Reddit?
 
 [Yes](https://www.reddit.com/r/illegaltorrents/comments/3p008z/request_reactjs_essentials_by_artemij_fedosejev/).
 
-### Can I have another example of using React.js with Flux?
+#### Can I have another example of using React.js with Flux?
 
 Sure, check my [Shopping List](https://github.com/fedosejev/shopping-list-react) example.
 
