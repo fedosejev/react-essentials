@@ -77,7 +77,7 @@ After graduation, Artemij moved to London to help local start-up companies build
 + <a href="https://www.facebook.com/ReactEssentials/">Facebook</a>
 + Snapchat: `artemij`
 
-<img src="artemij_snapchat.jpg" alt="Snapchat: artemij" />
+<img src="artemij_snapchat.jpg" alt="Snapchat: artemij" width="300" />
 
 ## Thank you
 
