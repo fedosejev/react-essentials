@@ -75,7 +75,7 @@ After graduation, Artemij moved to London to help local start-up companies build
 + <a href="http://linkedin.com/in/artemij">LinkedIn</a>
 + <a href="http://twitter.com/artemy">Twitter</a>
 + <a href="https://www.facebook.com/ReactEssentials/">Facebook</a>
-+ Snapchat: `artemij`
++ On Snapchat I share a lot about how to succeed as a web developer:
 
 <img src="artemij_snapchat.jpg" alt="Snapchat: artemij" width="300" />
 
