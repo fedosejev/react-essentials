@@ -7,6 +7,7 @@ Have you read [React.js Essentials](https://www.packtpub.com/web-development/rea
 + [Source code](./code)
 + [Updates](./updates.md)
 + [Book's Project](https://github.com/fedosejev/react-essentials-project)
++ [Facebook group for this book](https://www.facebook.com/groups/ReactEssentials/)
 
 Throughout the book you will be building a React.js app called Snapterest. Here is live version of Snapterest: http://fedosejev.github.io/react-essentials-project/
 
