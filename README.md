@@ -37,7 +37,7 @@ https://www.facebook.com/groups/ReactEssentials/
 
 ## Q/A
 
-Ask me any question on Snapchat - my username is `artemij`.
+Ask me any question on [Snapchat](https://www.snapchat.com) - my username is `artemij`.
 
 #### I get `SyntaxError: .../app.js: Unexpected token` when I run `gulp` command. What should I do?
 
@@ -87,7 +87,7 @@ After graduation, Artemij moved to London to help local start-up companies build
 + <a href="https://www.facebook.com/ReactEssentials/">Facebook</a>
 + I answer your questions on Snapchat:
 
-<img src="artemij_snapchat.jpg" alt="Snapchat: artemij" width="300" />
+<a href="https://www.snapchat.com/"><img src="artemij_snapchat.jpg" alt="Snapchat: artemij" width="300" /></a>
 
 ## Thank you
 
