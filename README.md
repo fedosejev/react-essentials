@@ -37,6 +37,8 @@ https://www.facebook.com/groups/ReactEssentials/
 
 ## Q/A
 
+Ask me any question on Snapchat - my username is `artemij`.
+
 #### I get `SyntaxError: .../app.js: Unexpected token` when I run `gulp` command. What should I do?
 
 This is due to some breaking changes made in `babelify` version 7. The book uses `babelify` version __6__ - if you choose to use version 6 as well then please [do the following](https://github.com/fedosejev/react-essentials/blob/master/updates.md#chapter-1-page-14).
@@ -83,7 +85,7 @@ After graduation, Artemij moved to London to help local start-up companies build
 + <a href="http://linkedin.com/in/artemij">LinkedIn</a>
 + <a href="http://twitter.com/artemy">Twitter</a>
 + <a href="https://www.facebook.com/ReactEssentials/">Facebook</a>
-+ On Snapchat I share a lot about how to succeed as a web developer:
++ I answer your questions on Snapchat:
 
 <img src="artemij_snapchat.jpg" alt="Snapchat: artemij" width="300" />
 
