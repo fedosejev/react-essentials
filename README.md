@@ -47,6 +47,10 @@ Yes! [Here it is](https://github.com/jmrog/react-essentials-es6-version). Specia
 
 Yes! http://fedosejev.github.io/react-essentials-project/
 
+#### How to deploy a stand alone React.js application described in the book?
+
+You can [deploy on GitHub Pages](how-to-deploy.md).
+
 #### Have you seen your book on Reddit?
 
 [Yes](https://www.reddit.com/r/illegaltorrents/comments/3p008z/request_reactjs_essentials_by_artemij_fedosejev/).
