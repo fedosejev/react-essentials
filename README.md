@@ -49,7 +49,7 @@ Yes! http://fedosejev.github.io/react-essentials-project/
 
 #### How to deploy a stand alone React.js application described in the book?
 
-You can [deploy on GitHub Pages](how-to-deploy.md).
+You can [deploy it on GitHub Pages](how-to-deploy.md).
 
 #### Have you seen your book on Reddit?
 
