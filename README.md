@@ -14,6 +14,10 @@ Throughout the book you will be building a React.js app called Snapterest. Here 
 
 https://www.facebook.com/groups/ReactEssentials/
 
+### I would really appreciate your help
+
+Can you please write a short review for the book on Amazon?
+
 ### Where to get your copy?
 
 + [Amazon US](http://www.amazon.com/React-js-Essentials-Artemij-Fedosejev/dp/1783551623/)
