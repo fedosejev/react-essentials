@@ -16,7 +16,7 @@ https://www.facebook.com/groups/ReactEssentials/
 
 ### I would really appreciate your help
 
-Can you please write a short review for the book on Amazon?
+Can you please write a short review for the book on Amazon? Thank you!
 
 ### Where to get your copy?
 
